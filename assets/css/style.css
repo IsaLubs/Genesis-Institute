@@ -99,3 +99,10 @@ nav img {
     background: #f44336;
     transition: 1s;
 }
+
+@media(max-width: 700px) {
+    .text-box h1 {
+        font-size: 20px;
+    }
+
+}
