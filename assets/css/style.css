@@ -70,14 +70,15 @@ nav img {
 
 .text-box h1 {
     font-size: 62px;
-    background-color: #b38012;
+    background-color: #bd9848;
+
 }
 
 .text-box p {
     margin: 20px 0 40px;
     font-size: 14px;
     color: #f3f1ec;
-    background-color: #b38012;
+    background-color: #bd9848;
 }
 
 .hero-btn {
@@ -91,5 +92,5 @@ nav img {
     position: relative;
     cursor: pointer;
     transition: 1s;
-    background-color: #b38012;
+    background-color: #bd9848;
 }
