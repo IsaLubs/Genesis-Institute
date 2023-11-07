@@ -45,10 +45,14 @@ nav img {
 
 .nav-links ul li::after {
     content: '';
-    width: 100%;
+    width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #b38012;
     display: block;
     margin: auto;
+    transition: .5s;
+}
 
+.nav-links ul li:hover::after {
+    width: 100%;
 }
