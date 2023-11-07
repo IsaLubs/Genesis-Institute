@@ -36,3 +36,9 @@ nav img {
     padding: 8px 12px;
     position: relative;
 }
+
+.nav-links ul li a {
+    color: rgb(133, 110, 6);
+    text-decoration: none;
+    font-size: 15px;
+}
