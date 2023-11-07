@@ -119,9 +119,22 @@ nav .fa {
         height: 100vh;
         width: 200px;
         top: 0;
-        right: 0;
+        right: -200px;
         text-align: left;
         z-index: 2;
 
     }
+
+    nav .fa {
+        display: block;
+        color: #6a511d;
+        margin: 10px;
+        font-size: 22px;
+        cursor: pointer;
+    }
+
+    .nav-links ul {
+        padding: 30px;
+    }
+
 }
