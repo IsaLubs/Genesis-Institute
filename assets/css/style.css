@@ -70,7 +70,7 @@ nav img {
 
 .text-box h1 {
     font-size: 62px;
-    background-color: #bd9848;
+    background-color: #6a511d;
 
 }
 
@@ -78,7 +78,7 @@ nav img {
     margin: 20px 0 40px;
     font-size: 14px;
     color: #f3f1ec;
-    background-color: #bd9848;
+    background-color: #6a511d;
 }
 
 .hero-btn {
@@ -91,7 +91,7 @@ nav img {
     background: transparent;
     position: relative;
     cursor: pointer;
-    background-color: #bd9848;
+    background-color: #6a511d;
 }
 
 .hero-btn:hover {
@@ -100,9 +100,24 @@ nav img {
     transition: 1s;
 }
 
+nav .fa {
+    display: none;
+}
+
 @media(max-width: 700px) {
     .text-box h1 {
         font-size: 20px;
     }
 
+    .nav-links {
+        position: absolute;
+        background: #6a511d;
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: 0;
+        text-align: left;
+        z-index: 2;
+
+    }
 }
