@@ -7,12 +7,13 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background: url("../images/uni-image.jpg") no-repeat center center/cover;
     background-position: center;
     background-size: cover;
     position: relative;
-
+    background: url("../images/uni-image.jpg") no-repeat center center/cover;
 }
+
+
 
 nav {
     display: flex;
@@ -59,10 +60,36 @@ nav img {
 
 .text-box {
     width: 90%;
-    color: #b38012;
+    color: #f3f1ec;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+.text-box h1 {
+    font-size: 62px;
+    background-color: #b38012;
+}
+
+.text-box p {
+    margin: 20px 0 40px;
+    font-size: 14px;
+    color: #f3f1ec;
+    background-color: #b38012;
+}
+
+.hero-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    transition: 1s;
+    background-color: #b38012;
 }
