@@ -215,3 +215,16 @@ h3 {
     width: 100%;
 }
 
+.layer {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    transition: .5s;
+}
+
+.layer:hover {
+    background: rgba(226, 188, 0, 0.7);
+}
