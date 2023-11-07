@@ -11,5 +11,12 @@
     background-position: center;
     background-size: cover;
     position: relative;
-    overflow: hidden;
+
+}
+
+nav {
+    display: flex;
+    padding: 2% 4%;
+    justify-content: space-between;
+    align-items: center;
 }
