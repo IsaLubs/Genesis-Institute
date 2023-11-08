@@ -305,3 +305,25 @@ h3 {
     margin-right: 30px;
     border-radius: 50%;
 }
+
+.testimonial-col p {
+    padding: 0;
+}
+
+.testimonial-col h3 {
+    margin-top: 15px;
+    text-align: left;
+}
+
+.testimonial-col p {
+    padding: 0;
+}
+
+.testimonial-col h3 {
+    margin-top: 15px;
+    text-align: left;
+}
+
+.testimonial-col .fa {
+    color: #f44336;
+}
