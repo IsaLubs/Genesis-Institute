@@ -238,5 +238,12 @@ h3 {
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
+    opacity: 0;
+    transition: .5s;
 
+}
+
+.layer:hover h3 {
+    bottom: 49%;
+    opacity: 1;
 }
