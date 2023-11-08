@@ -213,6 +213,7 @@ h3 {
 
 .campus-col img {
     width: 100%;
+    display: block;
 }
 
 .layer {
@@ -247,3 +248,5 @@ h3 {
     bottom: 49%;
     opacity: 1;
 }
+
+/*-------------- Facilities ----------------*/
