@@ -328,6 +328,8 @@ h3 {
     color: #f44336;
 }
 
+
+
 @media(max-width:700px) {
     .testimonial-col img {
         margin-left: 0px;
