@@ -347,3 +347,9 @@ h3 {
     text-align: center;
     padding: 100px 0;
 }
+
+.cta h1 {
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
