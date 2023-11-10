@@ -1,65 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="Description" content="Enter your description here" />
-<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,600,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Genesis Institute</title>
-  </head>
-  <body>
-<section class="header">
-    <nav>
-        <a href="index.html"><img src="assets/images/logo-image.png"></a>
-        </a>
-        <nav>
-        </nav>
-        <div class="nav-links" id="navLinks">
-            <i class="fa fa-close" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li><a href="course.html">COURSE</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-            </ul>
-        </div>
-    <i class="fa fa-bars" onclick="showMenu()"></i>
-    </nav>
-    <div class="text-box">
-        <h1>Global Learning Platform</h1>
-        <p>Establish an online platform that offers free or affordable courses from universities and experts worldwide.</p>
-        <a href="contact.html"class="hero-btn">Click for additional information.</a>
-</div>
-</section>
-  
-</section>
+</head>
 
-<!---------- course ----------->
-<section class="course">
-    <h1>Courses We Offer</h1>
-    <p>Humanities and Social Sciences, Natural Sciences, Mathematics and Computer Science.</p>
-    <div class="row">
-        <div class="course-col">
-            <h3>Intermediate</h3>
-            <p>Advanced Literature Seminars ,Historical Periods and Themes ,Advanced Science and Research, Computer Science Specializations,
-                Engineering Specializations, Business and Economics Specializations.</p>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="assets/images/logo-image.png" alt="logo of a hat"></a>
+            <nav>
+            </nav>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-close" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="course.html">COURSE</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>Global Learning Platform</h1>
+            <p>Establish an online platform that offers free or affordable courses from universities and experts
+                worldwide.</p>
+            <a href="contact.html" class="hero-btn">Click for additional information.</a>
         </div>
-        <div class="course-col">
-            <h3>Degree</h3>
-            <p>Bachelor's Degree (4-year program), Master's Degree (1-2 years beyond a bachelor's degree), Doctoral Degree (3-7+ years beyond a bachelor's degree),
-                Professional Degrees (varies in length), Online and Continuing Education Degrees.</p>
+    </section>
+
+    </section>
+
+    <!---- course ---->
+    <section class="course">
+        <h1>Courses We Offer</h1>
+        <p>Humanities and Social Sciences, Natural Sciences, Mathematics and Computer Science.</p>
+        <div class="row">
+            <div class="course-col">
+                <h3>Intermediate</h3>
+                <p>Advanced Literature Seminars ,Historical Periods and Themes ,Advanced Science and Research, Computer
+                    Science Specializations,
+                    Engineering Specializations, Business and Economics Specializations.</p>
+            </div>
+            <div class="course-col">
+                <h3>Degree</h3>
+                <p>Bachelor's Degree (4-year program), Master's Degree (1-2 years beyond a bachelor's degree), Doctoral
+                    Degree (3-7+ years beyond a bachelor's degree),
+                    Professional Degrees (varies in length), Online and Continuing Education Degrees.</p>
+            </div>
+            <div class="course-col">
+                <h3>Post Graduation</h3>
+                <p>Master's Degree, Doctoral Degree (Ph.D.), Postgraduate Certificates and Diplomas, Research and Taught
+                    Programs,
+                    Online and Part-Time Programs.</p>
+            </div>
         </div>
-        <div class="course-col">
-            <h3>Post Graduation</h3>
-            <p>Master's Degree, Doctoral Degree (Ph.D.), Postgraduate Certificates and Diplomas, Research and Taught Programs,
-                Online and Part-Time Programs.</p>
-        </div>
-    </div>
-</section>
-<!------------------ campus ----------------------->
+    </section>
+    <!---- campus ---->
 
     <section class="campus">
         <h1>Our Global campus</h1>
@@ -83,24 +88,24 @@
                     <h3>WASHINGTON</h3>
                 </div>
             </div>
-    
+
         </div>
-    
-</section>
 
-<!--------------------------toggle menu----------------------->
-<script>
-    var navLinks = document.getElementById("navLinks");
-   function showMenu() {
-        navLinks.style.right = "0";
-    }
+    </section>
 
-    function hideMenu() {
-        navLinks.style.right = "-200px";
-    }
-</script>
- 
-<!-------------- Facilities ---------------->
+    <!--- toggle menu ---->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+
+    <!--- Facilities ---->
     <section class="facility">
         <h1>Our Facilities</h1>
         <p>Our facilities are equipped with state-of-the-art technology and amenities to meet your needs.</p>
@@ -108,8 +113,9 @@
             <div class="facility-col">
                 <img src="assets/images/libray-image.jpg">
                 <h3>World Class Library</h3>
-                <p>A world-class library represents the pinnacle of knowledge access, offering an extensive collection, advanced
-                technology.</p>
+                <p>A world-class library represents the pinnacle of knowledge access, offering an extensive collection,
+                    advanced
+                    technology.</p>
             </div>
             <div class="facility-col">
                 <img src="assets/images/ball-image.jpg">
@@ -122,69 +128,72 @@
                 <p>Tasty and healthy food combines delicious flavors with nutritious ingredients.</p>
             </div>
         </div>
-</section>
-<!---------------- testimonials ----------------->
+    </section>
+    <!--- testimonials --->
 
-<section class="testimonials">
-    <h1>What Our Student Says</h1>
-    <p>Feedback on the effectiveness of online learning platforms and virtual classes.</p>
-    <div class="row">
-        <div class="testimonial-col">
-            <img src="assets/images/anastasiya-image.jpg">
-            <div>
-                <p>I appreciated the university's efforts to keep students informed through regular updates,
-                    Open and constructive communication channels with the administration.</p>
-                <h3>Anastasiya- Alice</h3>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-o"></i>
+    <section class="testimonials">
+        <h1>What Our Student Says</h1>
+        <p>Feedback on the effectiveness of online learning platforms and virtual classes.</p>
+        <div class="row">
+            <div class="testimonial-col">
+                <img src="assets/images/anastasiya-image.jpg">
+                <div>
+                    <p>I appreciated the university's efforts to keep students informed through regular updates,
+                        Open and constructive communication channels with the administration.</p>
+                    <h3>Anastasiya- Alice</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
             </div>
-        </div>
-        <div class="testimonial-col">
-            <img src="assets/images/andrea-image.jpg">
-            <div>
-                <p>The university effectively adapted to online learning during challenging times, 
-                The digital resources and online platforms were user-friendly and helpful.</p>
-                <h3>Andrea Piacquadio</h3>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-o"></i>
+            <div class="testimonial-col">
+                <img src="assets/images/andrea-image.jpg">
+                <div>
+                    <p>The university effectively adapted to online learning during challenging times,
+                        The digital resources and online platforms were user-friendly and helpful.</p>
+                    <h3>Andrea Piacquadio</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
             </div>
+
         </div>
+    </section>
 
-    </div>
-</section>
+    <!--- Call To Action --->
+    <section class="cta">
 
-<!-------- Call To Action ---------->
-<section class="cta">
-
-    <h1>Enroll For Our Various Online Courses<br>Anywhere From The World</h1>
-    <a href=""class="hero-btn">CONTACT US</a>
+        <h1>Enroll For Our Various Online Courses<br>Anywhere From The World</h1>
+        <a href="" class="hero-btn">CONTACT US</a>
 
 
-</section>
-<!-------- footer ---------->
+    </section>
+    <!--- footer --->
 
-<section class="footer">
-    <h4>About Us</h4>
-    <p>At Genesis Institute, we are committed to fostering knowledge, empowerment, and personal growth <br>education. Our
-    institute is dedicated to providing high-quality learning experiences <br> empower individuals to achieve their academic
-    and professional goals.</p>
-    <div class="icons">
-        <a href="https://facebook.com"><i class="fa fa-facebook"></i></a>
-        <a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
-        <a href="https://instagram.com"><i class="fa fa-instagram"></i></a>
-        <a href="https://youtube.com"><i class="fa fa-youtube-square"></i></a>
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>At Genesis Institute, we are committed to fostering knowledge, empowerment, and personal growth
+            <br>education. Our
+            institute is dedicated to providing high-quality learning experiences <br> empower individuals to achieve
+            their academic
+            and professional goals.</p>
+        <div class="icons">
+            <a href="https://facebook.com"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
+            <a href="https://instagram.com"><i class="fa fa-instagram"></i></a>
+            <a href="https://youtube.com"><i class="fa fa-youtube-square"></i></a>
 
-    </div>
+        </div>
         <p>Designed with <i class="fa fa-heart-o"></i> by Isa Lubs</p>
-    </a>
-</section>
+        </a>
+    </section>
 
 
-  </body>
+</body>
+
 </html>

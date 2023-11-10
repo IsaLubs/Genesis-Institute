@@ -1,39 +1,100 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Genesis Institute Website
 
-Welcome,
+Welcome to the Genesis Institute's official website! This web platform serves as a gateway to a world-class learning experience, offering a diverse range of courses and resources to empower individuals globally. Below is a brief overview of the key sections and features of our website:
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+1. **Introduction**
+   - [Description](#description)
+   - [Navigation](#navigation)
+   - [Hero Section](#hero-section)
+  
+2. **Courses**
+   - [Offered Courses](#offered-courses)
+   - [Course Categories](#course-categories)
 
-## Codeanywhere Reminders
+3. **Global Campus**
+   - [Campus Locations](#campus-locations)
+   - [Global Perspectives](#global-perspectives)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+4. **Facilities**
+   - [State-of-the-Art Facilities](#facilities)
 
-`python3 -m http.server`
+5. **Testimonials**
+   - [Student Feedback](#student-feedback)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+6. **Call to Action**
+   - [Enrollment Information](#enrollment-information)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+7. **Footer**
+   - [About Us](#about-us)
+   - [Social Media](#social-media)
+   - [Acknowledgments](#acknowledgments)
 
-`http_server`
+## Introduction
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Description
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Discover the Genesis Institute, a global learning platform committed to providing high-quality education. Our website showcases a user-friendly interface designed to facilitate exploration and engagement.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Navigation
 
-To log into the Heroku toolbelt CLI:
+Navigate seamlessly through our website using the intuitive menu. Access Home, About, Course, and Contact pages effortlessly.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Hero Section
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+The Hero Section welcomes you with a compelling message - "Global Learning Platform." Explore our vision to establish an online platform offering free or affordable courses from universities and experts worldwide.
 
----
+## Courses
 
-Happy coding!
+### Offered Courses
+
+Explore the diverse array of courses we offer, ranging from Humanities and Social Sciences to Natural Sciences, Mathematics, and Computer Science.
+
+### Course Categories
+
+Discover courses categorized into Intermediate, Degree, and Post Graduation levels, each tailored to meet specific educational aspirations.
+
+## Global Campus
+
+### Campus Locations
+
+Embark on a virtual journey to our global campuses in London, New York, and Washington. Experience our commitment to providing education with a global perspective.
+
+### Global Perspectives
+
+Immerse yourself in our global compass, enriched by diverse perspectives and insights from around the world.
+
+## Facilities
+
+### State-of-the-Art Facilities
+
+Our facilities are equipped with cutting-edge technology and amenities, ensuring an optimal learning environment. Explore our world-class library, expansive playground, and delicious, nutritious food offerings.
+
+## Testimonials
+
+### Student Feedback
+
+Read what our students say about their experience with Genesis Institute. Gain insights into the effectiveness of our online learning platforms and virtual classes.
+
+## Call to Action
+
+### Enrollment Information
+
+Ready to embark on your learning journey? Enroll in our various online courses from anywhere in the world. Contact us for more information.
+
+## Footer
+
+### About Us
+
+Learn more about Genesis Institute's commitment to fostering knowledge, empowerment, and personal growth in education.
+
+### Social Media
+
+Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
+
+### Acknowledgments
+
+Designed with ❤️ by Isa Lubs.
+
+Thank you for visiting the Genesis Institute website. Explore, learn, and embark on a transformative educational journey with us!
