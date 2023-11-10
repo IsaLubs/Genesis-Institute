@@ -101,8 +101,8 @@ Take a visual tour of our website through these snapshots:
 
 While we strive for a seamless user experience, there are a few known issues in our current version. Please be aware of the following:
 
-- **Issue 1:** [Describe the first known issue.]
-- **Issue 2:** [Describe the second known issue.]
+- **Issue 1:** [Have issues with image layout not in line.]
+- **Issue 2:** [website is not hosted online for active users.]
 
 ### Reporting Bugs
 
