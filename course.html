@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="Description" content="Enter your description here" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Genesis Institute</title>
+</head>
+
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html"><img src="assets/images/logo-image.png"></a>
+            </a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-close" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="">COURSE</a></li>
+                    <li><a href="">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <h1>About Us</h1>
+    </section>
+    <!---------about us content------------>
+
+    <section class="about us">
+        <div class="row">
+            <div class="about-col">
+                <h1>Global Learning Platform</h1>
+                <p>
+                    At Genesis Institute, we believe in the transformative power of education.<br> We are not just an
+                    educational institution;
+                    we are a gateway to unlocking your full potential and realizing your dreams.<br> Our commitment to
+                    excellence in education
+                    and personal development is at the heart of everything we do.</p>
+                <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
+            </div>
+            <div class="about-col">
+                <img src="assets/images/about.jpg">
+            </div>
+        </div>
+    </section>
+
+    <!-------- footer ---------->
+
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>At Genesis Institute, we are committed to fostering knowledge, empowerment, and personal growth
+            <br>education. Our
+            institute is dedicated to providing high-quality learning experiences <br> empower individuals to achieve
+            their academic
+            and professional goals.
+        </p>
+        <div class="icons">
+            <a href="https://facebook.com"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
+            <a href="https://instagram.com"><i class="fa fa-instagram"></i></a>
+            <a href="https://youtube.com"><i class="fa fa-youtube-square"></i></a>
+
+        </div>
+        <p>made with <i class="fa fa-heart-o"></i> by Isa Lubs</p>
+        </a>
+    </section>
+
+    <!--------------------------toggle menu----------------------->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+</body>
+
+</html>
