@@ -23,10 +23,17 @@ Welcome to the Genesis Institute's official website! This web platform serves as
 5. **Testimonials**
    - [Student Feedback](#student-feedback)
 
-6. **Call to Action**
+6. **Images**
+   - [Website Snapshots](#website-snapshots)
+
+7. **Find a Bug**
+   - [Known Issues](#known-issues)
+   - [Reporting Bugs](#reporting-bugs)
+
+8. **Call to Action**
    - [Enrollment Information](#enrollment-information)
 
-7. **Footer**
+9. **Footer**
    - [About Us](#about-us)
    - [Social Media](#social-media)
    - [Acknowledgments](#acknowledgments)
@@ -76,6 +83,30 @@ Our facilities are equipped with cutting-edge technology and amenities, ensuring
 ### Student Feedback
 
 Read what our students say about their experience with Genesis Institute. Gain insights into the effectiveness of our online learning platforms and virtual classes.
+
+## Images
+
+### Website Snapshots
+
+Take a visual tour of our website through these snapshots:
+
+- [Snapshot 1](#)
+- [Snapshot 2](#)
+- [Snapshot 3](#)
+- [Snapshot 4](#)
+
+## Find a Bug
+
+### Known Issues
+
+While we strive for a seamless user experience, there are a few known issues in our current version. Please be aware of the following:
+
+- **Issue 1:** [Describe the first known issue.]
+- **Issue 2:** [Describe the second known issue.]
+
+### Reporting Bugs
+
+Help us improve! If you encounter any issues or bugs not listed above, please report them [here](#) so that our team can address them promptly.
 
 ## Call to Action
 
