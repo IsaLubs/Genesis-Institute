@@ -111,7 +111,7 @@ nav .fa {
     }
 
     .nav-links {
-        position: absolute;
+        position: fixed;
         background: #6a511d;
         height: 100vh;
         width: 200px;
