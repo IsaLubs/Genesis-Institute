@@ -451,3 +451,8 @@ h3 {
 .location iframe {
     width: 100%;
 }
+
+.contact-us {
+    width: 80%;
+    margin: auto;
+}
