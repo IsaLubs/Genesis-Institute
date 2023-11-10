@@ -461,3 +461,16 @@ h3 {
     flex-basis: 48%;
     margin-bottom: 30px;
 }
+
+.contact-col div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.contact-col div .fa {
+    font-size: 28px;
+    color: #f44336;
+    margin: 10px;
+    margin-right: 30px;
+}
