@@ -20,7 +20,7 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
  About: Dive into the heart of Genesis Institute. Learn about our mission, vision, and commitment to fostering knowledge, empowerment, and personal growth in education
 
 
-1. Courses
+##  Courses
    
     #Offered Courses
    - Humanities and Social Sciences.
@@ -33,13 +33,13 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
     - Post Graduation.
 
 
-Global Campus
+ ## Global Campus
    - Campus Locations
       <img src="assets/images/location.png">
    - Global Perspectives
     <img src="assets/images/globalcampus.png">
 
-Facilities
+## Facilities
    
 #State-of-the-Art Facilities.
 
