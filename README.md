@@ -61,7 +61,7 @@ Discover what students are saying about their experience at Genesis Institute. O
 
 ---
 
-### *Navbar*
+##  Navbar
 The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
 
 ---
