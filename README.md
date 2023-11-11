@@ -59,31 +59,61 @@ Nourish both body and mind with our culinary offerings. Our cafeteria provides t
 Discover what students are saying about their experience at Genesis Institute. Our commitment to providing a top-tier education is reflected in the feedback we receive from those who have embarked on their learning journey with us. Read on to explore the testimonials from our students:
  <img src="assets/images/students.png">
 
+---
 
-## Technologies Used
+### *Navbar*
+The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
+
+---
+## Technologies Used 
+
 I have used several technologies that have enabled this design to work:
 
-1.HTML
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - Used as the basic building block for the project and to structure the content.
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - Used to style all the web content across the project. 
+- [JavaScript](https://www.javascript.com/)
+    - Used for the responsive navbar, form, scroll down arrow and read more/read less button.
+- [Google Fonts](https://fonts.google.com/)
+    - Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie
+- [Font Awesome](https://fontawesome.com/)
+    - Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+- [GitHub](https://github.com/)
+    - Used to store code for the project after being pushed.
+- [Git](https://git-scm.com/)
+    - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+- [Gitpod](https://www.gitpod.io/)
+    - Used as the development environment.
+- [Balsamiq](https://balsamiq.com/)
+    - Used to create the wireframes for the project.
+- [AutoPrefixer](https://autoprefixer.github.io/)
+    - Used to parse my CSS and ass vendor prefixes.
+- [Grammarly](https://www.grammarly.com/)
+    - Used to fix the thousands of grammar errors across the project.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
+    - Used to detect overflow of elements, which allowed me to quickly debug any issues.
+- [Coloors](https://coolors.co/)
+    - Used to create a colour palette for the design.
+- [Fancybox](https://fancyapps.com/fancybox/3/)
+    - Used to format my Sri Lanka photo gallery.
+- [Favicon.io](https://favicon.io/)
+    - Used to create favicon's for my website
+- [Tiny.png](https://tinypng.com/)
+    - Allowed me to compress my images so that the page would load faster.
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
+    - Allowed me to test the colour contrast of my webpage.
+- [W3C Markup Validation Service](https://validator.w3.org/) 
+    - Used to validate all HTML code written and used in this webpage.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - Used to validate all CSS code written and used in this webpage.
+- [Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
+    - Used to accurately format my CSS code.
+- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+    - Used to accurately format my HTML code.
+- [AmIResponsive](http://ami.responsivedesign.is/)
+    - Used to generate repsonsive image used in README file.
 
-Used as the basic building block for the project and to structure the content.
-
-2.CSS
-
-Used to style all the web content across the project.
-
-3.Google Fonts.
-
-Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie.
-
-4.Font Awesome.
-
-Used to obtain the social media icons used in the footer and the icons in La Petite Review.
-
-5.Google Developer Tools
-
-Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
-
-6.GitHub
-
-Used to store code for the project after being pushed.
-
+---
