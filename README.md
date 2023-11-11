@@ -54,5 +54,8 @@ Embrace the importance of holistic development in our expansive playground. The 
 
 Nourish both body and mind with our culinary offerings. Our cafeteria provides tasty and healthy food options, combining delicious flavors with nutritious ingredients. Enjoy a variety of meals that cater to different dietary preferences, ensuring a well-rounded and satisfying culinary experience.
 
-1. **Testimonials**
-   - [Student Feedback](#student-feedback)
+## Testimonials
+- Student Feedback
+Discover what students are saying about their experience at Genesis Institute. Our commitment to providing a top-tier education is reflected in the feedback we receive from those who have embarked on their learning journey with us. Read on to explore the testimonials from our students:
+ <img src="assets/images/students.png">
+ 
