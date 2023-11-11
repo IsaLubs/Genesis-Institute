@@ -117,3 +117,10 @@ I have used several technologies that have enabled this design to work:
     - Used to generate repsonsive image used in README file.
 
 ---
+
+### HTML and CSS Validation
+
+I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+ <img src="assets/images/validator.png">
+---
+
