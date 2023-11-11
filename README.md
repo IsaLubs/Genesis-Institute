@@ -63,16 +63,21 @@ Discover what students are saying about their experience at Genesis Institute. O
 ## Technologies Used
 I have used several technologies that have enabled this design to work:
 
-HTML
+-HTML
 Used as the basic building block for the project and to structure the content.
-CSS
+
+-CSS
 Used to style all the web content across the project.
-Google Fonts
-Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie
-Font Awesome
+
+-Google Fonts
+Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie.
+
+-Font Awesome
 Used to obtain the social media icons used in the footer and the icons in La Petite Review.
-Google Developer Tools
+
+-Google Developer Tools
 Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
-GitHub
+
+-GitHub
 Used to store code for the project after being pushed.
 
