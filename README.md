@@ -36,7 +36,8 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 2. **Global Campus**
    - Campus Locations
       <img src="assets/images/location.png">
-   - [Global Perspectives](#global-perspectives)
+   - Global Perspectives
+   - <img src="assets/images/globalcampus.png">
 
 3. **Facilities**
    - [State-of-the-Art Facilities](#facilities)
