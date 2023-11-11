@@ -127,3 +127,9 @@ I validated both my HTML and CSS code multiple times whilst building the website
 ## Images
 Website Snapshots
 Take a visual tour of our website through these snapshots:
+<img src="assets/images/snapone.png">
+<img src="assets/images/snaptwo.png">
+<img src="assets/images/snapthree.png">
+<img src="assets/images/four.png">
+
+----
