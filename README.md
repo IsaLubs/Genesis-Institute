@@ -8,10 +8,10 @@ Welcome to the Genesis Institute's official website! This web platform serves as
 
 1. **Introduction**
 
-Description
+**Description**
 Welcome to Genesis Institute, your gateway to a world-class learning experience! We are dedicated to providing high-quality education on a global scale. Our platform offers a diverse range of courses, from Humanities and Social Sciences to Natural Sciences, Mathematics, and Computer Science. As a pioneer in online education, we aim to empower individuals worldwide by providing accessible and affordable courses from renowned universities and experts. Explore the endless possibilities of learning with Genesis Institute and embark on a transformative educational journey.
 
-Navigation
+**Navigation**
 Our website is designed with user-friendliness in mind, ensuring seamless navigation for an optimal browsing experience.
 Home: Begin your journey on our home page, where you'll find an overview of our global learning platform and its offerings.
 
