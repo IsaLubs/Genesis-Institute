@@ -58,4 +58,21 @@ Nourish both body and mind with our culinary offerings. Our cafeteria provides t
 - Student Feedback
 Discover what students are saying about their experience at Genesis Institute. Our commitment to providing a top-tier education is reflected in the feedback we receive from those who have embarked on their learning journey with us. Read on to explore the testimonials from our students:
  <img src="assets/images/students.png">
- 
+
+
+## Technologies Used
+I have used several technologies that have enabled this design to work:
+
+HTML
+Used as the basic building block for the project and to structure the content.
+CSS
+Used to style all the web content across the project.
+Google Fonts
+Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie
+Font Awesome
+Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+Google Developer Tools
+Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+GitHub
+Used to store code for the project after being pushed.
+
