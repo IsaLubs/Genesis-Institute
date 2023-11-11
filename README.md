@@ -21,15 +21,23 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 
 
 1. **Courses**
-   - [Offered Courses](#offered-courses)
-   - [Course Categories](#course-categories)
+   - [Offered Courses]
+   - Humanities and Social Sciences.
+   - Natural Sciences.
+   - Mathematics and Computer Science.
+  
+   - [Course Categories]
+    - Intermediate.
+    - Degree.
+    - Post Graduation.
 
-2. **Global Campus**
+
+1. **Global Campus**
    - [Campus Locations](#campus-locations)
    - [Global Perspectives](#global-perspectives)
 
-3. **Facilities**
+2. **Facilities**
    - [State-of-the-Art Facilities](#facilities)
 
-4. **Testimonials**
+3. **Testimonials**
    - [Student Feedback](#student-feedback)
