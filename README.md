@@ -124,4 +124,6 @@ I validated both my HTML and CSS code multiple times whilst building the website
  <img src="assets/images/validator.png">
 
 ---
-
+## Images
+Website Snapshots
+Take a visual tour of our website through these snapshots:
