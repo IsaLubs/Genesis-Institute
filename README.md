@@ -40,7 +40,16 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
    - <img src="assets/images/globalcampus.png">
 
 3. **Facilities**
-   - [State-of-the-Art Facilities](#facilities)
+   
+State-of-the-Art Facilities.
+At Genesis Institute, we are dedicated to providing an unparalleled learning environment equipped with state-of-the-art facilities. Our commitment to excellence extends beyond the digital realm to ensure that our physical spaces enhance the overall educational experience. Explore the world-class facilities that await you.
 
-4. **Testimonials**
+World-Class Library.
+Immerse yourself in a world of knowledge within our world-class library. Our extensive collection spans various disciplines, providing access to the latest publications, research materials, and academic resources. Advanced technology enhances the learning experience, offering a pinnacle of knowledge access.Largest Playground
+Embrace the importance of holistic development in our expansive playground. The largest playground on our campus provides a vast and diverse space for recreational activities, fostering physical well-being and a sense of community among our students.
+
+Tasty and Healthy Food.
+Nourish both body and mind with our culinary offerings. Our cafeteria provides tasty and healthy food options, combining delicious flavors with nutritious ingredients. Enjoy a variety of meals that cater to different dietary preferences, ensuring a well-rounded and satisfying culinary experience.
+
+1. **Testimonials**
    - [Student Feedback](#student-feedback)
