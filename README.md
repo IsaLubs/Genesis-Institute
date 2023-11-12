@@ -178,8 +178,11 @@ The following websites/articles were used for research and guidance:
 
 - [Design tips](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)
 
+- [Wireframes](https://careerfoundry.com/en/blog/ux-design/wireframing-mobile-apps-websites/)
+
 - [Design tips](https://www.pexels.com/search/cycling/)
-   - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+ - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 I used code from the following resources:
 
 - [Responsive Navbar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
