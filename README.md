@@ -19,6 +19,7 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
  Home: Begin your journey on our home page, where you'll find an overview of our global learning platform and its offerings.
  About: Dive into the heart of Genesis Institute. Learn about our mission, vision, and commitment to fostering knowledge, empowerment, and personal growth in education
 
+---
 
 ##  Courses
    
@@ -39,6 +40,8 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
    - Global Perspectives
     <img src="assets/images/globalcampus.png">
 
+---- 
+
 ## Facilities
    
 - State-of-the-Art Facilities.
@@ -53,6 +56,8 @@ Embrace the importance of holistic development in our expansive playground. The 
 - Tasty and Healthy Food.
 
 Nourish both body and mind with our culinary offerings. Our cafeteria provides tasty and healthy food options, combining delicious flavors with nutritious ingredients. Enjoy a variety of meals that cater to different dietary preferences, ensuring a well-rounded and satisfying culinary experience.
+
+---- 
 
 ## Testimonials
 - Student Feedback
