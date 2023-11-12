@@ -169,3 +169,26 @@ Cloning your repository will allow you to download a local version of the reposi
 6. Press enter and your local clone will be created.
 
 ---
+
+## Credits
+
+I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS.
+
+The following websites/articles were used for research and guidance:
+
+- [Design tips](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)
+
+- [Design tips](https://www.pexels.com/search/cycling/)
+   - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+I used code from the following resources:
+
+- [Responsive Navbar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+
+- [Read more button](https://www.w3schools.com/howto/howto_js_read_more.asp)
+  - This code was used but the JS function was heavily edited with the help of my tutor Guido.
+
+- [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+
+- [Visually hidden elements](https://www.w3.org/WAI/tutorials/forms/labels/)
+
+-[Free logo maker](https://app.logomakr.com/)
