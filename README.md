@@ -190,5 +190,7 @@ I used code from the following resources:
 - [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 - [Visually hidden elements](https://www.w3.org/WAI/tutorials/forms/labels/)
+- 
+- [Free logo maker](https://app.logomakr.com/)
 
--[Free logo maker](https://app.logomakr.com/)
+----
