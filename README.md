@@ -188,7 +188,6 @@ I used code from the following resources:
 - [Responsive Navbar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 
 - [Read more button](https://www.w3schools.com/howto/howto_js_read_more.asp)
-  - This code was used but the JS function was heavily edited with the help of my tutor Guido.
 
 - [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
@@ -206,3 +205,11 @@ Learn more about Genesis Institute's commitment to fostering knowledge, empowerm
   - Social Media
 
 Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
+
+----
+
+## Acknowledgments
+
+Thank you for visiting the Genesis Institute website. Explore, learn, and embark on a transformative educational journey with us!
+
+I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project and my fellow student Jonathan_Zakrisson_Alumnus  for their support & feedback.
