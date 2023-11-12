@@ -147,3 +147,25 @@ GitHub pages deployment
 5. In the source section, select branch 'Master' and save
 6. The page is then given a site URL which you will see above the source section, it will look like the following:
 <img src="assets/images/snapfive.png">
+Please note it can take a while for this link to become fully active.
+
+Forking the GitHub Repository
+
+If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it. This ensures your original repository remains unchanged.
+
+1. Find the relevant GitHub repository
+2. In the top right corner of the page, click the Fork button (under your account)
+3. Your repository has now been 'Forked' and you have a copy to work on
+
+Cloning the GitHub Repository
+
+Cloning your repository will allow you to download a local version of the repository to be worked on. Cloning can also be a great way to backup your work.
+
+1. Find the relevant GitHub repository
+2. Press the arrow on the Code button
+3. Copy the link that is shown in the drop-down
+4. Now open Gitpod & select the directory location where you would like the clone created
+5. In the terminal type 'git clone' & then paste the link you copied in GitHub
+6. Press enter and your local clone will be created.
+
+---
