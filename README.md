@@ -198,11 +198,11 @@ I used code from the following resources:
 
 ----
 ## Footer
-- [About Us]
+- About Us
 
 Learn more about Genesis Institute's commitment to fostering knowledge, empowerment, and personal growth in education.
 <img src="assets/images/handels.png">
   
-  - [Social Media]
+  - Social Media
 
 Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
