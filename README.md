@@ -1,6 +1,6 @@
 # Genesis Institute
 
-view the website here:
+View the website here:
 <https://isalubs.github.io/Genesis-Institute/>
  <img src="assets/images/genesisinstitute.png">
 Welcome to the Genesis Institute's official website! This web platform serves as a gateway to a world-class learning experience, offering a diverse range of courses and resources to empower individuals globally. Below is a brief overview of the key sections and features of our website:
@@ -68,6 +68,19 @@ Discover what students are saying about their experience at Genesis Institute. O
 
 ##  Navbar
 The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
+
+----
+
+## Footer
+
+- About Us
+
+Learn more about Genesis Institute's commitment to fostering knowledge, empowerment, and personal growth in education.
+<img src="assets/images/handels.png">
+  
+- Social Media
+
+Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
 
 ---
 ## Technologies Used 
@@ -149,7 +162,7 @@ GitHub pages deployment
 2. In your Repository section, select the project repository that you want to deploy
 3. In the menu located at the top of this section, click 'Settings'
 4. Select 'Pages' on the left-hand menu - this is around halfway down
-5. In the source section, select branch 'Master' and save
+5. In the source section, select branch 'Main' and save
 6. The page is then given a site URL which you will see above the source section, it will look like the following:
 <img src="assets/images/snapfive.png">
 Please note it can take a while for this link to become fully active.
@@ -199,17 +212,6 @@ I used code from the following resources:
 - [Visually hidden elements](https://www.w3.org/WAI/tutorials/forms/labels/)
   
 - [Free logo maker](https://app.logomakr.com/)
-
-----
-## Footer
-- About Us
-
-Learn more about Genesis Institute's commitment to fostering knowledge, empowerment, and personal growth in education.
-<img src="assets/images/handels.png">
-  
-  - Social Media
-
-Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
 
 ----
 
