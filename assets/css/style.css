@@ -1,3 +1,4 @@
+/*---------- headr --------*/
 * {
     margin: 0;
     padding: 0;
@@ -68,14 +69,14 @@ nav img {
 
 .text-box h1 {
     font-size: 62px;
-    background-color: #6a511d;
+    background-color: #b5a072;
 }
 
 .text-box p {
     margin: 20px 0 40px;
     font-size: 14px;
     color: #f3f1ec;
-    background-color: #6a511d;
+    background-color: #b5a072;
 }
 
 .hero-btn {
