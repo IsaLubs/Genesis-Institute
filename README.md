@@ -33,9 +33,9 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 
 - Intermediate:
     Bridge foundational concepts to more specialized subjects, exploring advanced literature, historical periods, computer science specializations, and more.
-  - Degree:
+- Degree:
     Pursue comprehensive academic programs, including Bachelor's, Master's, and Doctoral Degrees across various disciplines.
-   - Post Graduation.
+- Post Graduation:
     Elevate your expertise with Master's and Doctoral Degrees, Postgraduate Certificates, and Diplomas. Specialize in your field through research and taught programs.
 
 
