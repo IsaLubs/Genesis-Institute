@@ -22,6 +22,7 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 ---
 
 ##  Courses
+   Our courses are designed to foster critical thinking, creativity, and practical skills, preparing you for success in a rapidly evolving world. Join Genesis Institute and embark on a transformative educational journey where learning knows no bounds. Explore, discover, and shape your future with us.
    
   ## Offered Courses
    - Humanities and Social Sciences.
