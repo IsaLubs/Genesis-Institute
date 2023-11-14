@@ -23,16 +23,20 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 
 ##  Courses
    Our courses are designed to foster critical thinking, creativity, and practical skills, preparing you for success in a rapidly evolving world. Join Genesis Institute and embark on a transformative educational journey where learning knows no bounds. Explore, discover, and shape your future with us.
-   
+
   ## Offered Courses
    - Humanities and Social Sciences.
    - Natural Sciences.
    - Mathematics and Computer Science.
   
  ## Categories
-   - Intermediate.
-   - Degree.
+
+- Intermediate:
+    Bridge foundational concepts to more specialized subjects, exploring advanced literature, historical periods, computer science specializations, and more.
+  - Degree:
+    Pursue comprehensive academic programs, including Bachelor's, Master's, and Doctoral Degrees across various disciplines.
    - Post Graduation.
+    Elevate your expertise with Master's and Doctoral Degrees, Postgraduate Certificates, and Diplomas. Specialize in your field through research and taught programs.
 
 
  ## Global Campus
