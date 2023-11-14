@@ -76,6 +76,11 @@ The navbar is placed on top of a responsive image which acts as a header, when v
 
 ----
 
+## Known bugs and fixes
+
+As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that contact page delays image uploading of the  when clicked gave a 404 error message some times:
+<img src="assets/images/delay.png">
+
 ## Footer
 
 - About Us
