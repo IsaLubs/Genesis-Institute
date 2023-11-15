@@ -38,7 +38,7 @@ nav img {
 }
 
 .nav-links ul li a {
-    color: rgb(133, 110, 6);
+    color: rgb(223, 218, 197);
     text-decoration: none;
     font-size: 15px;
 }
@@ -76,7 +76,7 @@ nav img {
     margin: 20px 0 40px;
     font-size: 14px;
     color: #f3f1ec;
-    background-color:#6a511d;
+    background-color: #6a511d;
 }
 
 .hero-btn {
