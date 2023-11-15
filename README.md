@@ -75,7 +75,11 @@ Discover what students are saying about their experience at Genesis Institute. O
 The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
 
 ----
+## Lighthouse
+Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. I achieved a high-performance score initially, as you can see below:
+<img src="assets/images/light.png">
 
+----
 ## Known bugs and fixes
 
 As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that contact page delays image uploading when clicked gave a 404 error message some times but page works normally as it should be.
