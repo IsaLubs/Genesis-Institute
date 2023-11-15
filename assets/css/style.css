@@ -1,4 +1,4 @@
-/*---------- headr --------*/
+/*---------- header --------*/
 * {
     margin: 0;
     padding: 0;
@@ -14,6 +14,7 @@
     background: url("../images/uni-image.jpg") no-repeat center center/cover;
 }
 
+/*---------- navigation --------*/
 nav {
     display: flex;
     padding: 2% 4%;
