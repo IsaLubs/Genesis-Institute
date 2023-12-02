@@ -52,26 +52,26 @@ This is a fully responsive website that was designed mobile-first as this is the
 ## Navbar:
 Fixed Navbar:
 
-The navigation bar is fixed at the top of the page, providing easy access to navigation links as users scroll down.
+- The navigation bar is fixed at the top of the page, providing easy access to navigation links as users scroll down.
 ## Dropdown Menu:
 
-The "Courses" link has a dropdown menu with multiple options, offering a hierarchical structure to navigate through different sections.
+- The "Courses" link has a dropdown menu with multiple options, offering a hierarchical structure to navigate through different sections.
 ## Highlight on Hover:
 
-Navigation links change color upon hovering, providing visual feedback to users.
+- Navigation links change color upon hovering, providing visual feedback to users.
 ## Responsive Design:
 
-The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
+- The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
 ## About:
 Introduction:
 
-The "About Us" section provides information about Genesis Institute, introducing users to the purpose and background of the organization.
+- The "About Us" section provides information about Genesis Institute, introducing users to the purpose and background of the organization.
 Clear Typography:
 
-The text is presented in a clean and readable format, using appropriate font sizes for headings and body text.
+- The text is presented in a clean and readable format, using appropriate font sizes for headings and body text.
 Use of Icons:
 
-Icons are utilized alongside text, adding visual elements to enhance the presentation.
+- Icons are utilized alongside text, adding visual elements to enhance the presentation.
 ## Keep in Touch:
 Contact Form:
 
@@ -80,18 +80,18 @@ Call to Action:
 
 Clear headings encourage users to get in touch, and the contact form is prominently displayed.
 ## Colors Used:
-Blue:
+1. Blue:
 
-The primary color appears to be a shade of blue, used for the navbar and various elements throughout the site.
-White:
+- The primary color appears to be a shade of blue, used for the navbar and various elements throughout the site.
+2. White:
 
-White is used for backgrounds and some text elements, providing a clean and modern look.
-Black:
+- White is used for backgrounds and some text elements, providing a clean and modern look.
+3. Black:
 
-Black is used for text and other elements to create contrast against lighter backgrounds.
-Gray:
+- Black is used for text and other elements to create contrast against lighter backgrounds.
+4. Gray:
 
-Shades of gray are used for additional text and background elements, contributing to a balanced color scheme.
+- Shades of gray are used for additional text and background elements, contributing to a balanced color scheme.
 
 ----
 ## Testimonials
