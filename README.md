@@ -50,7 +50,7 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the page is divided into the four sections listed in the navbar. Where a colour background has been used it has a slightly transparent opacity and the text is off-white. All of the headings use the font Cookie and the body text is Raleway, this consistency has been used across the website to create a coherent design.
 
 ## Navbar:
-Fixed Navbar:
+1. Fixed Navbar:
 
 - The navigation bar is fixed at the top of the page, providing easy access to navigation links as users scroll down.
 ## Dropdown Menu:
@@ -63,20 +63,21 @@ Fixed Navbar:
 
 - The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
 ## About:
-Introduction:
+1. Introduction:
 
 - The "About Us" section provides information about Genesis Institute, introducing users to the purpose and background of the organization.
-Clear Typography:
+2. Clear Typography:
 
 - The text is presented in a clean and readable format, using appropriate font sizes for headings and body text.
-Use of Icons:
+3. Use of Icons:
 
 - Icons are utilized alongside text, adding visual elements to enhance the presentation.
+
 ## Keep in Touch:
-Contact Form:
+1. Contact Form:
 
 A contact form is provided for users to get in touch with Genesis Institute. It typically includes fields for name, email, phone, and a message.
-Call to Action:
+2. Call to Action:
 
 Clear headings encourage users to get in touch, and the contact form is prominently displayed.
 ## Colors Used:
