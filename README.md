@@ -154,7 +154,7 @@ I have used several technologies that have enabled this design to work:
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
  <img src="assets/images/validator.png">
-  <img src="assets/images/checker2.png">
+<img src="assets/images/checker.png">
 
 ---
 ## Images
