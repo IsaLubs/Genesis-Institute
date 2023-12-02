@@ -46,33 +46,59 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
     <img src="assets/images/globalcampus.png">
 
 ---- 
+## Features
+This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the page is divided into the four sections listed in the navbar. Where a colour background has been used it has a slightly transparent opacity and the text is off-white. All of the headings use the font Cookie and the body text is Raleway, this consistency has been used across the website to create a coherent design.
 
-## Facilities
-   
-- State-of-the-Art Facilities.
+Navbar:
+Fixed Navbar:
 
-At Genesis Institute, we are dedicated to providing an unparalleled learning environment equipped with state-of-the-art facilities. Our commitment to excellence extends beyond the digital realm to ensure that our physical spaces enhance the overall educational experience. Explore the world-class facilities that await you.
+The navigation bar is fixed at the top of the page, providing easy access to navigation links as users scroll down.
+Dropdown Menu:
 
-- World-Class Library.
+The "Courses" link has a dropdown menu with multiple options, offering a hierarchical structure to navigate through different sections.
+Highlight on Hover:
 
-Immerse yourself in a world of knowledge within our world-class library. Our extensive collection spans various disciplines, providing access to the latest publications, research materials, and academic resources. Advanced technology enhances the learning experience, offering a pinnacle of knowledge access.Largest Playground
-Embrace the importance of holistic development in our expansive playground. The largest playground on our campus provides a vast and diverse space for recreational activities, fostering physical well-being and a sense of community among our students.
+Navigation links change color upon hovering, providing visual feedback to users.
+Responsive Design:
 
-- Tasty and Healthy Food.
+The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
+About:
+Introduction:
 
-Nourish both body and mind with our culinary offerings. Our cafeteria provides tasty and healthy food options, combining delicious flavors with nutritious ingredients. Enjoy a variety of meals that cater to different dietary preferences, ensuring a well-rounded and satisfying culinary experience.
+The "About Us" section provides information about Genesis Institute, introducing users to the purpose and background of the organization.
+Clear Typography:
 
----- 
+The text is presented in a clean and readable format, using appropriate font sizes for headings and body text.
+Use of Icons:
 
+Icons are utilized alongside text, adding visual elements to enhance the presentation.
+Keep in Touch:
+Contact Form:
+
+A contact form is provided for users to get in touch with Genesis Institute. It typically includes fields for name, email, phone, and a message.
+Call to Action:
+
+Clear headings encourage users to get in touch, and the contact form is prominently displayed.
+Colors Used:
+Blue:
+
+The primary color appears to be a shade of blue, used for the navbar and various elements throughout the site.
+White:
+
+White is used for backgrounds and some text elements, providing a clean and modern look.
+Black:
+
+Black is used for text and other elements to create contrast against lighter backgrounds.
+Gray:
+
+Shades of gray are used for additional text and background elements, contributing to a balanced color scheme.
+
+----
 ## Testimonials
 - Student Feedback
 Discover what students are saying about their experience at Genesis Institute. Our commitment to providing a top-tier education is reflected in the feedback we receive from those who have embarked on their learning journey with us. Read on to explore the testimonials from our students:
  <img src="assets/images/students.png">
 
----
-
-##  Navbar
-The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
 
 ----
 ## Lighthouse
