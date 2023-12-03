@@ -47,7 +47,7 @@ Welcome to Genesis Institute, your gateway to a world-class learning experience!
 
 ---- 
 ## Features
-This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the page is divided into the four sections listed in the navbar. Where a colour background has been used it has a slightly transparent opacity and the text is off-white. All of the headings use the font Cookie and the body text is Raleway, this consistency has been used across the website to create a coherent design.
+This is a fully responsive website that was designed with a mobile-first approach as this is the most likely way it will be viewed; the page is divided in different sections listed in the navbar. Where employs a monochrome color palette with transparent backgrounds for visual sophistication used,and maintains a consistent and elegant design language through the exclusive use of the Cookie font for headings and body text, this consistency has been used across the website to create a coherent design.
 
 ## Navbar:
 1. Fixed Navbar:
