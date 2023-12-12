@@ -1,7 +1,6 @@
 # Genesis Institute
+[Visit the website here](https://isalubs.github.io/Genesis-Institute/)
 
-View the website here:
-<https://isalubs.github.io/Genesis-Institute/>
  <img src="assets/images/genesisinstitute.png">
 Welcome to the Genesis Institute's official website! This web platform serves as a gateway to a world-class learning experience, offering a diverse range of courses and resources to empower individuals globally. Below is a brief overview of the key sections and features of our website:
 
