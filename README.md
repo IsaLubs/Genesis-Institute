@@ -75,9 +75,13 @@ This is a fully responsive website that was designed with a mobile-first approac
 ## Dropdown Menu
 
 - The "Courses" link has a dropdown menu with multiple options, offering a hierarchical structure to navigate through different sections.
+  <img src="assets/images/drop1.png">
+
 ## Highlight on Hover
 
 - Navigation links change color upon hovering, providing visual feedback to users.
+  <img src="assets/images/drop2.png">
+
 ## Responsive Design
 
 - The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
