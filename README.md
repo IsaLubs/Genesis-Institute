@@ -86,6 +86,7 @@ This is a fully responsive website that was designed with a mobile-first approac
 
 - The navigation bar adjusts its layout for smaller screens, ensuring usability on various devices.
 <img src="assets/images/drop5.png">
+
 ## About
 1. Introduction
 
