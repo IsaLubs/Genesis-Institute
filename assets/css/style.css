@@ -58,6 +58,10 @@ nav img {
     width: 100%;
 }
 
+.form-heading-mobile {
+    display: none;
+}
+
 .text-box {
     width: 90%;
     color: #f3f1ec;
@@ -355,6 +359,15 @@ h3 {
     .cta h1 {
         font-size: 24px;
     }
+
+    .form-heading-mobile {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+
+    .form-heading-desktop {
+        display: none;
+    }
 }
 
 /*--------------Footer---------------*/
@@ -523,4 +536,12 @@ h3 {
     transition: 0.5s ease-in-out all;
     visibility: visible;
     opacity: 1;
+}
+
+.form-heading {
+    width: 100%;
+}
+
+.form-heading+.form-heading {
+    margin-left: 1.5em;
 }
