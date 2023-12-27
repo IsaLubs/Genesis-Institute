@@ -41,9 +41,13 @@
     </section>
 
     <section class="contact-us">
-        <h2>Contact Us</h2>
+        <div class="row">
+            <h2 class="form-heading">Contact Us</h2>
+            <h2 class="form-heading form-heading-desktop">Keep In Touch</h2>
+        </div>
         <div class="row">
             <div class="contact-col">
+
                 <!-- Added Class Name -->
                 <div class="contact-column">
                     <i class="fa fa-home"></i>
@@ -55,7 +59,7 @@
                 <div class="contact-column">
                     <i class="fa fa-phone"></i>
                     <div>
-                        <h3>+46 761738000</h3>
+                        <h3>+46 761738569</h3>
                         <p>Monday to Saturday, 9AM to 6PM</p>
                     </div>
                 </div>
@@ -68,6 +72,7 @@
                 </div>
             </div>
             <div class="contact-col">
+                <h2 class="form-heading-mobile">Keep In Touch</h2>
                 <form id="contact-form">
                     <input type="text" name="name" placeholder="Enter your name" required>
                     <input type="email" name="email" placeholder="Enter email address" required>
@@ -123,6 +128,8 @@
             setTimeout(() => {
                 message.classList.remove("show");
             }, 3000);
+
+            form.reset();
         })
     </script>
 </body>
