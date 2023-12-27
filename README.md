@@ -101,8 +101,10 @@ This is a fully responsive website that was designed with a mobile-first approac
 ## Keep in Touch
 1. Contact Form:
 
+<img src="assets/images/keep.png">
+
 A contact form is provided for users to get in touch with Genesis Institute. It typically includes fields for name, email, phone, and a message.
-2. Call to Action
+1. Call to Action
 
 Clear headings encourage users to get in touch, and the contact form is prominently displayed.
 ## Colors Used
