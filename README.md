@@ -138,15 +138,17 @@ As part of my testing I wanted to ensure that all of my clickable links worked &
 <img src="assets/images/delay.png">
 
 - This has now been resolved and all of the links work.
+  
 Throughout the entire process, I used Google Dev Tools and Unicorn revealer to debug the website and its layout, this allowed me to check the responsiveness of the site and quickly debug any issues that I came across.
-Contact page works normal and no more isses with the image loading.
+Contact page works normal and no more issues with the image loading.
+<img src="assets/images/contact2.png">
 
 ## Footer
 
 - About Us
 
 Learn more about Genesis Institute's commitment to fostering knowledge, empowerment, and personal growth in education.
-<img src="assets/images/handels.png">
+<img src="assets/images/drop3.png">
   
 - Social Media
 
