@@ -134,8 +134,12 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 ----
 ## Known bugs and fixes
 
-As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that contact page delays image uploading when clicked gave a 404 error message some times but page works normally as it should be.
+As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that all pages and contact page delays image uploading when clicked gave a 404 error message some times but page did not  normally as it should be.
 <img src="assets/images/delay.png">
+
+- This has now been resolved and all of the links work.
+Throughout the entire process, I used Google Dev Tools and Unicorn revealer to debug the website and its layout, this allowed me to check the responsiveness of the site and quickly debug any issues that I came across.
+Contact page works normal and no more isses with the image loading.
 
 ## Footer
 
