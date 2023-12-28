@@ -168,6 +168,14 @@ Connect with us on social media platforms such as Facebook, Twitter, Instagram, 
 - Navbar collapse works on smaller devices.
 - Why Us and Step-by-step is internal anchor links to the homepage and are not available when the user is not on the homepage, see bugs in Readme.
   
+### Footer
+- All icon links work correctly.
+- All links open in a new page.
+- The footer appears at the end of the page with javascript.
+- Back to top button being displayed on scroll.
+- Back to top button takes visitor back to top.
+- Footer are not being displayed on pages when user don´t need to scroll, see bugs in Readme.
+
 ## Technologies Used 
 
 I have used several technologies that have enabled this design to work:
