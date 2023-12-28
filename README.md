@@ -195,6 +195,12 @@ In production the site has been tested on the following browsers.
 - Safari
 - Opera
 
+### Homepage
+- All buttons work and links correctly.
+- Icons are being displayed correctly.
+- Images are displayed correctly.
+- Good contrast between text/images/buttons.
+
 ## Technologies Used 
 
 I have used several technologies that have enabled this design to work:
