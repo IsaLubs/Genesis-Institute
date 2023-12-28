@@ -176,6 +176,16 @@ Connect with us on social media platforms such as Facebook, Twitter, Instagram, 
 - Back to top button takes visitor back to top.
 - Footer are not being displayed on pages when user don´t need to scroll, see bugs in Readme.
 
+### Responsivness
+Chrome dev tools were used throughout the development of the project to test responsiveness. Responsiveness was tested using Dev Tools to emulate the following devices.
+
+- Iphone 5
+- Iphone 6/7/8
+- Iphone 6/7/8 Plus
+- Iphone X
+- Ipad
+- Ipad Pro
+
 ## Technologies Used 
 
 I have used several technologies that have enabled this design to work:
