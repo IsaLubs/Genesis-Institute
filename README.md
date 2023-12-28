@@ -99,7 +99,7 @@ This is a fully responsive website that was designed with a mobile-first approac
 - Icons are utilized alongside text, adding visual elements to enhance the presentation.
 
 ## Keep in Touch
-1. Contact Form:
+1. Contact Form
 
 <img src="assets/images/keep.png">
 
@@ -139,6 +139,7 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that all pages did not open in new page and contact page delays image uploading when clicked gave a 404 error message some times and page did not  normally work as it should be.
 <img src="assets/images/delay.png">
 
+## Solved Bugs
 - This has now been resolved and all of the links work.
   
 Throughout the entire process, I used Google Dev Tools and Unicorn revealer to debug the website and its layout, this allowed me to check the responsiveness of the site and quickly debug any issues that I came across.
