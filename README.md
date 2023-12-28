@@ -160,7 +160,7 @@ Connect with us on social media platforms such as Facebook, Twitter, Instagram, 
 -----
 ## Manual Testing
 
-## Navigation Bar
+# Navigation Bar
 - All links correctly redirect to the correct pages for visitors.
 - Navbar is fully responsive on small/medium/large devices.
 - Customer sees correct link "Your overview" when logged in.
