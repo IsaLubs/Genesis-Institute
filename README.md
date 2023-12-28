@@ -201,6 +201,11 @@ In production the site has been tested on the following browsers.
 - Images are displayed correctly.
 - Good contrast between text/images/buttons.
 
+### Keep In Touch
+- Name, Email, and Subject are working as expected.
+- First Name and Phone are working as expected.
+- Message of sent confirmation being displayed and massage disappear as expected.
+
 ## Technologies Used 
 
 I have used several technologies that have enabled this design to work:
