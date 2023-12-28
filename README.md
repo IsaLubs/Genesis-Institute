@@ -157,7 +157,17 @@ Learn more about Genesis Institute's commitment to fostering knowledge, empowerm
 
 Connect with us on social media platforms such as Facebook, Twitter, Instagram, and YouTube. Stay updated on the latest news and events.
 
----
+-----
+## Manual Testing
+
+## Navigation Bar
+- All links correctly redirect to the correct pages for visitors.
+- Navbar is fully responsive on small/medium/large devices.
+- Customer sees correct link "Your overview" when logged in.
+- Partner sees correct link "Overview" when logged in.
+- Navbar collapse works on smaller devices.
+- Why Us and Step-by-step is internal anchor links to the homepage and are not available when the user is not on the homepage, see bugs in Readme.
+  
 ## Technologies Used 
 
 I have used several technologies that have enabled this design to work:
