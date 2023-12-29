@@ -163,18 +163,15 @@ Connect with us on social media platforms such as Facebook, Twitter, Instagram, 
 ### Navigation Bar
 - All links correctly redirect to the correct pages for visitors.
 - Navbar is fully responsive on small/medium/large devices.
-- Customer sees correct link "Your overview" when logged in.
-- Partner sees correct link "Overview" when logged in.
 - Navbar collapse works on smaller devices.
-- Why Us and Step-by-step is internal anchor links to the homepage and are not available when the user is not on the homepage, see bugs in Readme.
+- Contanct page fully works and masseges are sent like they should be.
   
 ### Footer
 - All icon links work correctly.
 - All links open in a new page.
 - The footer appears at the end of the page with javascript.
-- Back to top button being displayed on scroll.
-- Back to top button takes visitor back to top.
-- Footer are not being displayed on pages when user don´t need to scroll, see bugs in Readme.
+- Back to top button takes user back to top.
+- Footer are being displayed on pages when user need to click easily.
 
 ### Responsivness
 Chrome dev tools were used throughout the development of the project to test responsiveness. Responsiveness was tested using Dev Tools to emulate the following devices.
